@@ -1,0 +1,7 @@
+<source>
+  type tail
+  format none
+  path /var/log/app
+  pos_file /var/log/app.pos
+  tag github
+</source>
